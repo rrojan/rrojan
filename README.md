@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [Devwire](devwire.co)
 
-- 💬 Ask me about **Go, JavaScript, Ruby, React, NextJS, Python and Writing technical articles**
+- 💬 Ask me about **Go, JavaScript, Ruby, React, NextJS, Python and Writing**
 
 - 📫 Reach me at: **rrojan20@gmail.com**, **hello@rojanr.com.np**
 
