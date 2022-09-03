@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **Go, JavaScript, Ruby, React, NextJS, Python and Writing technical articles**
 
-- 📫 How to reach me **rrojan20@gmail.com**
+- 📫 Reach me at: **rrojan20@gmail.com**, **hello@rojanr.com.np**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
