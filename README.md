@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rrojan&label=Profile%20views&color=0e75b6&style=flat" alt="rrojan" /> </p>
 
-- 🔭 I’m currently working as a Full-stack Engineer @ [ReadyToWork JP](https://scalagrp.jp/), as teaching faculty @ [Kings College Nepal](https://www.kingscollege.edu.np/)
+- 🔭 I’m currently working as a Full-stack Engineer @ [ReadyToWork JP](https://readytowork.jp/), as teaching faculty @ [Kings College Nepal](https://www.kingscollege.edu.np/)
 
 - 💬 Ask me about **Go, JavaScript, Ruby, React, NextJS, Python and Writing**
 
