@@ -2,7 +2,10 @@
 <h3 align="center">Software Engineer and Writer</h3>
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=rrojan&label=Profile%20views&color=0e75b6&style=flat" alt="rrojan" />
-</p> - 🔭 I’m currently working as a Full-stack Engineer @ [ReadyToWork JP](https://readytowork.jp/), as teaching faculty @ [Kings College Nepal](https://www.kingscollege.edu.np/) - 💬 Working with **Go, Typescript, JavaScript, Ruby, React, NextJS and Python** - 📫 Reach me at: **rrojan20@gmail.com**, **hello@rojanr.com.np**
+</p>
+<p>- 🔭 I’m currently working as a Full-stack Engineer @ <a href="https://readytowork.jp/">ReadyToWork JP</a>, as teaching faculty @ <a href="https://kingscollege.edu.np">Kings College Nepal</a></p>
+<p>- 💬 Working with **Go, Typescript, JavaScript, Ruby, React, NextJS and Python** </p>
+<p>- 📫 Reach me at: **rrojan20@gmail.com**, **hello@rojanr.com.np**</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
