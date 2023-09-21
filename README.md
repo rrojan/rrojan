@@ -5,7 +5,7 @@
 </p>
 <p>- 🔭 Currently working as a Full-stack Engineer @ <a href="https://readytowork.jp/">ReadyToWork JP</a>, as teaching faculty @ <a href="https://kingscollege.edu.np">Kings College Nepal</a></p>
 <p>- 💬 Working with <b>Go, Typescript, JavaScript, Ruby, React, NextJS and Python</b> </p>
-<p>- 📫 Reach me at: **rrojan20@gmail.com**, **hello@rojanr.com.np**</p>
+<p>- 📫 Reach me at: <b>rrojan20@gmail.com</b>, <b>hello@rojanr.com.np</b></p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
