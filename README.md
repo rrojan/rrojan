@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hi, I'm Rojan</h1>
 <h3 align="center">Software Engineer and Writer</h3>
 <p align="left">
-  
+  <img src="https://komarev.com/ghpvc/?username=rrojan&label=Profile%20views&color=0e75b6&style=flat" alt="rrojan" />
 </p>
 <p>- 🔭 Currently working as a Full-stack Engineer @ <a href="https://readytowork.jp/">ReadyToWork JP</a>, as teaching faculty @ <a href="https://kingscollege.edu.np">Kings College Nepal</a></p>
 <p>- 💬 Working with <b>Go, Typescript, JavaScript, Ruby, React, NextJS and Python</b> </p>
