@@ -4,7 +4,7 @@
   <img src="https://komarev.com/ghpvc/?username=rrojan&label=Profile%20views&color=0e75b6&style=flat" alt="rrojan" />
 </p>
 <p>- 🔭 Currently working as a Full-stack Engineer and as teaching faculty at <a href="https://kingscollege.edu.np">Kings College Nepal</a></p>
-<p>- 💬 Working with <b>Go, Typescript, JavaScript, Ruby, React, NextJS and Python</b> </p>
+<p>- 💬 Working with <b>Go, Typescript, JavaScript, Ruby, React, NextJS and NodeJS</b> </p>
 <p>- 📫 Reach me at: <b>rrojan20@gmail.com</b>, <b>hello@rojanr.com.np</b></p>
 
 <h3 align="left">Connect with me:</h3>
