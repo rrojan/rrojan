@@ -36,5 +36,5 @@
 
 <p>
 <!--   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rrojan&show_icons=true&theme=dark&locale=en&layout=compact&exclude_repo=CovidNP_API,pasaledai-django-multiseller-ecommerce-store,Upachar-Core-API,landing-kings-assignment" alt="rrojan" /> -->
-  <img align="center" src="https://github-readme-stats-virid-eta.vercel.app/api/top-langs?username=rrojan&show_icons=true&theme=dark&locale=en&layout=compact&exclude_repo=pasale-dai" alt="Github stats" />
+  <img align="center" src="https://github-statzzz.vercel.app/api/top-langs?username=rrojan&show_icons=true&theme=dark&locale=en&layout=compact&exclude_repo=pasale-dai" alt="Github stats" />
 </p>
