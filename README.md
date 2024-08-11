@@ -20,10 +20,10 @@
 
 [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40" />](https://reactjs.org/) &nbsp; 
 [<img src="https://www.datocms-assets.com/98835/1684410508-image-7.png" alt="nextjs" width="40" height="40" />](https://nextjs.org/) &nbsp; 
-[<img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40" />](https://www.djangoproject.com/) &nbsp; 
 [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rails/rails-original-wordmark.svg" alt="rails" width="40" height="40" />](https://rubyonrails.org) &nbsp; 
 [<img src="https://raw.githubusercontent.com/gin-gonic/logo/master/color.png" alt="gin framework" width="30" height="40" />](https://gin-gonic.com/) &nbsp; 
 [<img src="https://adware-technologies.s3.amazonaws.com/uploads/technology/thumbnail/20/express-js.png" alt="express js" width="40" height="40" />](https://expressjs.com/) &nbsp; 
+[<img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40" />](https://www.djangoproject.com/) &nbsp; 
 [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40" />](https://www.docker.com/) &nbsp; 
 [<img src="https://www.svgrepo.com/show/331300/aws.svg" alt="aws" width="40" height="40" />](https://aws.amazon.com) &nbsp; 
 [<img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40" />](https://cloud.google.com) &nbsp; 
