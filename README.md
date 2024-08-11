@@ -3,7 +3,7 @@
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=rrojan&label=Profile%20views&color=0e75b6&style=flat" alt="rrojan" />
 </p>
-<p>- 🔭 Currently Senior Software Engineer at <a href="https://outside.studio">Outside</a> and as part-time teaching faculty at <a href="https://kingscollege.edu.np">Kings College Nepal</a></p>
+<p>- 🔭 Currently Senior Software Engineer at <a href="https://outside.studio">Outside</a> and part-time teaching faculty at <a href="https://kingscollege.edu.np">Kings College Nepal</a></p>
 <p>- 💬 Working with <b>Go, Typescript, JavaScript, Ruby, React, NextJS and NodeJS</b> </p>
 <p>- 📫 Reach me at: <b>rrojan20@gmail.com</b>, <b>hello@rojanr.com</b></p>
 
@@ -25,10 +25,12 @@
 [<img src="https://adware-technologies.s3.amazonaws.com/uploads/technology/thumbnail/20/express-js.png" alt="express js" width="40" height="40" />](https://expressjs.com/) &nbsp; 
 [<img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40" />](https://www.djangoproject.com/) &nbsp; 
 [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40" />](https://www.docker.com/) &nbsp; 
+[<img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40" />](https://graphql.org) &nbsp; 
+
+
 [<img src="https://www.svgrepo.com/show/331300/aws.svg" alt="aws" width="40" height="40" />](https://aws.amazon.com) &nbsp; 
 [<img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40" />](https://cloud.google.com) &nbsp; 
 [<img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40" />](https://firebase.google.com/) &nbsp; 
-[<img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40" />](https://graphql.org) &nbsp; 
 [<img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" alt="rabbitMQ" width="40" height="40" />](https://www.rabbitmq.com) &nbsp; 
 
 
