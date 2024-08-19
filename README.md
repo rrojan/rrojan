@@ -32,11 +32,8 @@
 [<img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40" />](https://cloud.google.com) &nbsp; 
 [<img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40" />](https://firebase.google.com/) &nbsp; 
 [<img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" alt="rabbitMQ" width="40" height="40" />](https://www.rabbitmq.com) &nbsp; 
-
-
 [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40" />](https://www.linux.org/) &nbsp; 
 [<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40" />](https://git-scm.com/) &nbsp;
-[<img src="https://static-00.iconduck.com/assets.00/apps-neovim-icon-1024x1024-cvzervfu.png" alt="git" width="40" height="40" />](https://neovim.io/)
 
 
 <p>
