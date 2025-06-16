@@ -3,7 +3,7 @@
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=rrojan&label=Profile%20views&color=0e75b6&style=flat" alt="rrojan" />
 </p>
-<p>- 🔭 Currently Senior Software Engineer at <a href="https://outside.studio">Outside</a> and part-time teaching faculty at <a href="https://kingscollege.edu.np">Kings College Nepal</a></p>
+<p>- 🔭 Currently Senior Software Engineer at <a href="https://outside.studio">Outside</a> and teaching faculty at <a href="https://kingscollege.edu.np">Kings College Nepal</a></p>
 <p>- 💬 Working with <b>Go, Typescript, JavaScript, Ruby, React, NextJS and NodeJS</b> </p>
 <p>- 📫 Reach me at: <b>rrojan20@gmail.com</b>, <b>hello@rojanr.com</b></p>
 
